@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonBackground">#848484</color> <!-- Color de fondo de los botones -->
+    <color name="buttonText">#FFFFFFFF</color>        <!-- Color del texto de los botones -->
+    <color name="orange">#D3791F</color>
+    <color name="red">#E20B0B</color>
+    <color name="purple">#BA55D3</color>
+</resources>
